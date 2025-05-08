@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.945);
+}
+
+.top{
+    text-align: center;
+    display: flex;
+    justify-content: end;
+    padding: 1px;
+    background-color: rgba(109, 77, 77, 0.288);
+    border-top: 15px solid rgba(0, 0, 0, 0.349);
+    border-bottom: 15px solid rgba(0, 0, 0, 0.349);
+}
+
+.log{
+    padding-right: 800px;
+    height: 100px;
+}
+.boto1{
+    background-color: rgba(0, 0, 0, 0.925);
+    margin: 20px;
+    border: solid rgb(155, 153, 153);
+    padding: 15px;
+    font-family: "Nabla", system-ui;
+    cursor: pointer;
+    transition-duration: 1s
+}
+.boto1:hover{
+    border-color: aliceblue;
+    background-color: rgb(129, 1, 1);
+    transition-duration: 1s;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transform: scale(1.1);
+    border-radius: 50px;
+
+}
+ .boto2{
+    background-color: black;
+    margin: 20px;
+    border: solid rgb(155, 153, 153);
+    padding: 15px;
+    font-family: "Nabla", system-ui;
+    cursor: pointer;
+    transition-duration: 1s
+}
+.boto2:hover{
+    border-color: aliceblue;
+    background-color: rgb(129, 1, 1);
+    transition-duration: 1s;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transform: scale(1.1);
+    border-radius: 50px;
+    
+}
+.boto3{
+    background-color: black;
+    margin: 20px;
+    border: solid rgb(155, 153, 153);
+    padding: 15px;
+    font-family: "Nabla", system-ui;
+    cursor: pointer;
+    transition-duration: 1s
+}
+
+.boto3:hover{
+    border-color: aliceblue;
+    transition-duration: 1s;
+    background-image: url(/Images/gif-dra.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transform: scale(1.1);
+    border-radius: 50px;
+}
+
+.titulo{
+    
+    background-image: url(/Images/Free-Pixel-Art-Fantasy-2D-Battlegrounds6.jpg);
+    background-position:top;
+    background-repeat: no-repeat;
+    font-family: "Nabla", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding:100px ;
+    font-size: 100px;
+}
+
+h1{
+    font-family: "Nabla", system-ui;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    padding-top: 0px;
+}
+.sinap{  
+    border: 15px solid rgba(158, 53, 53, 0.664);   
+    padding: 10%;
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+
+}
+.cont{
+    display: flex; 
+    flex-direction: column;
+    height:20px;
+}
+.conte{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.fot1{
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fot2{
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.fot4{
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.fot3{
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
